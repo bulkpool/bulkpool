@@ -8,7 +8,7 @@ I build backend systems and AI-powered infrastructure — with a focus on distri
 
 ## What I'm building
 
-**[DocuMind](https://github.com/yourusername/documind)** — RAG-powered knowledge assistant  
+**[DocuMind](https://github.com/bulkpool/documind)** — RAG-powered knowledge assistant  
 Event-driven document pipeline with RabbitMQ, Pinecone vector search (100K+ embeddings), Redis multi-layer caching, and streaming LLM Q&A via WebSocket. Sub-50ms p95 query latency across 4 microservices.  
 `Python` `Go` `FastAPI` `RabbitMQ` `Pinecone` `Redis` `PostgreSQL` `AWS S3` `Docker`
 
@@ -43,6 +43,6 @@ Scalable UI screen collection and annotation platform with JWT/OAuth auth, AWS S
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:youremail@illinois.edu)
+[LinkedIn](https://linkedin.com/in/ayushprasad18) · [Email](mailto:aup2@illinois.edu)
 
 > *New grad SWE — available May 2026. Interested in backend infrastructure, distributed systems, and AI/ML-native product teams.*
